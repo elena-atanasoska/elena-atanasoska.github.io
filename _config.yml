@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -97,16 +97,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#293B5F"
+navbar-text-col: "#B2AB8C"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+link-col: "#DBE6FD"
+hover-col: "#F2F6FF"
+footer-col: "#47597E"
+footer-text-col: "#B2AB8C"
+footer-link-col: "#DBE6FD"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
