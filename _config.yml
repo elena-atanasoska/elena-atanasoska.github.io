@@ -16,11 +16,11 @@ author: Elena Atanasoska
 navbar-links:
   About Me: "aboutme"
   Education: "education"
-  What makes me unique:
-  -Creativity: "creativity"
-  -Thinking: "thinking"
-  -Drive: "drive"
-  -Connections: "connections"
+  What makes me unique: "unique"
+    -Creativity: "creativity"
+    -Thinking: "thinking"
+    -Drive: "drive"
+    -Connections: "connections"
 
 # --- Logo --- #
 
