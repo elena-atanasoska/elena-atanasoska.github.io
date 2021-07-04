@@ -2,9 +2,9 @@
 layout: post
 title: Software engineering and information systems
 subtitle: Undergraduate studies
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/finki.jpg
+thumbnail-img: /assets/img/logo.png
+share-img: /assets/img/finki.jpg
 tags: [FINKI, UKIM]
 ---
 
