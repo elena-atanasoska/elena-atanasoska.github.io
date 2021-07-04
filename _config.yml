@@ -17,10 +17,10 @@ navbar-links:
   About Me: "aboutme"
   Education: "education"
   What makes me unique:
-    -Creativity: "creativity"
-    -Thinking: "thinking"
-    -Drive: "drive"
-    -Connections: "connections"
+    - Creativity: "creativity"
+    - Thinking: "thinking"
+    - Drive: "drive"
+    - Connesctions: "connections"
 
 # --- Logo --- #
 
