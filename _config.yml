@@ -15,9 +15,12 @@ author: Elena Atanasoska
 
 navbar-links:
   About Me: "aboutme"
-  Education: "https://www.markdowntutorial.com/"
-  What makes me unique: "unique"
+  Education: "education"
+  What makes me unique:
   -Creativity: "creativity"
+  -Thinking: "thinking"
+  -Drive: "drive"
+  -Connections: "connections"
 
 # --- Logo --- #
 
